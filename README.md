@@ -10,12 +10,12 @@ In the table below, we created a retirement titles table that includes the emplo
  
 
 In the table below, we created a Unique Titles table where we removed the duplicate titles and keep only the most recent title for each employee. We used the DISTINCT ON statement to retrieve the first occurrence of the employee number for each set of rows. We used the INTO clause to create the Unique Titles table and sorted the table in ascending order by the employee number and descending order by the last date of the most recent title. 
-
  
+
 
 In the Retiring Titles table pictured below, we created a table to hold the number of titles filled by employees who are retiring. 
-
  
+
 In the final table for this analysis, we created a Mentorship Eligibility table for current employees that were born between January 1, 1965 and December 31, 1965, as pictured below.
 
  
@@ -29,4 +29,6 @@ Using the SELECT COUNT(*)FROM unique_titles statement, we discovered that 90,398
 
 Using the SELECT COUNT (*) FROM mentorship_eligibility statement, we discovered there are 1,549 retirement-ready employees in the departments to mentor the next generation. With these figures, I believe the company should be able to refill the positions of the employees that are retiring. 
 
-![image](https://user-images.githubusercontent.com/85265504/128611732-3f053757-6ae6-4d42-9e51-f9b97bf214c2.png)
+
+
+![image](https://user-images.githubusercontent.com/85265504/128623414-01de83bd-12ac-470a-9ec3-b238ec258675.png)
