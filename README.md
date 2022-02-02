@@ -28,9 +28,4 @@ Summary
 Using the SELECT COUNT(*)FROM unique_titles statement, we discovered that 90,398 roles will need to be filled as the “silver tsunami” begins to make an impact. More than 60% of the current number of employees will be retiring.  
  
 
-
 Using the SELECT COUNT (*) FROM mentorship_eligibility statement, we discovered there are 1,549 retirement-ready employees in the departments to mentor the next generation. With these figures, I believe the company should be able to refill the positions of the employees that are retiring. 
-
-
-
-![image](https://user-images.githubusercontent.com/85265504/128623414-01de83bd-12ac-470a-9ec3-b238ec258675.png)
